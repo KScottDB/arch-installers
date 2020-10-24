@@ -12,7 +12,7 @@ export USERNAME=jenn
 export PASSWORD=jenn
 export ROOTPASS=jenn
 export hostname=jennhp-arch
-export AUR_PKGS="plymouth google-chrome ttf-ms-fonts ttf-vista-fonts ttf-ancient-fonts ttf-twemoji ttf-symbola"
+export AUR_PKGS="plymouth google-chrome ttf-ms-fonts ttf-vista-fonts ttf-ancient-fonts ttf-twemoji ttf-symbola notejot"
 export PACKAGES="base linux linux-firmware grub cinnamon xed xreader vlc lxdm xorg-server gnome-notes sudo git base-devel pulseaudio mesa xf86-video-amdgpu nano efibootmgr dhcpcd networkmanager noto-fonts ttf-droid gnu-free-fonts ttf-liberation ttf-cascadia-code ttf-arphic-uming ttf-indic-otf"
 
 echo -e "\e[93m== Partitioning $DISK ==\e[0m"
